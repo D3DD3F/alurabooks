@@ -15,9 +15,8 @@ Nele, foi desenvolvido um site para demonstração de livros de tecnologia, onde
 <br>
 
 <p align="center">
-  <img alt="projeto mobile" src="./img/mobile.JPG" width="100%">
-  <img alt="projeto tablet" src="./img/tablet.JPG.JPG" width="100%">
-  <img alt="projeto desktop" src="./img/desktop.JPG.JPG.JPG" width="100%">
+  <img alt="projeto mobile" src="./img/mobile.JPG" width="30%">
+  
 </p>
 
 ## 🚀 Tecnologias
